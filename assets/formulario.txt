@@ -1,0 +1,9 @@
+1 - Qual o nome e sobrenome do pet?
+2 - Qual o tipo do pet (Cachorro/Gato)?
+3 - Qual o sexo do animal (Macho ou Femea)?
+4 - Onde ele foi encontrado? Numero da Casa:
+5 - Onde ele foi encontrado? Cidade:
+6 - Onde ele foi encontrado? Rua:
+7 - Qual a idade aproximada do pet?
+8 - Qual o peso aproximado do pet?
+9 - Qual a raça do pet?
